@@ -83,7 +83,7 @@ The following steps were performed:
 📦 sql-data-cleaning-layoffs
  ┣ 📜 data_cleaning.sql
  ┣ 📄 README.md
- ┗ 📊 screenshots/ (optional)
+ ┗ 📊 screenshots
 ```
 
 ---
