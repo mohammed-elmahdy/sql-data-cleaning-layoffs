@@ -7,6 +7,19 @@ The goal is to transform messy data into a structured and analysis-ready format.
 
 ---
 
+## 📸 Data Cleaning Preview
+
+### Raw Data
+![Raw Data](Screenshots/Raw dataset preview.jpg)
+
+### Duplicates Identified
+![Duplicates](Screenshots/Duplicate rows example.jpg)
+
+### Cleaned Data
+![Cleaned](Screenshots/Final cleaned dataset.jpg)
+
+---
+
 ## 🛠️ Tools Used
 
 * MySQL
