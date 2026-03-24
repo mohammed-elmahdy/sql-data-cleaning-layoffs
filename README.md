@@ -10,13 +10,13 @@ The goal is to transform messy data into a structured and analysis-ready format.
 ## 📸 Data Cleaning Preview
 
 ### Raw Data
-![Raw Data](Screenshots/Raw dataset preview)
+![Raw Data](Screenshots/raw-dataset-preview.jpg)
 
 ### Duplicates Identified
-![Duplicates](Screenshots/Duplicate rows example)
+![Duplicates](Screenshots/duplicate-rows-example.jpg)
 
 ### Cleaned Data
-![Cleaned](Screenshots/Final cleaned dataset)
+![Cleaned](Screenshots/final-cleaned-dataset.jpg)
 
 ---
 
