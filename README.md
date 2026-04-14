@@ -13,7 +13,7 @@ The goal is to transform messy data into a structured and analysis-ready format.
 ![Raw Data](Screenshots/raw-dataset-preview.jpg)
 
 ### Duplicates Identified
-![Duplicates](Screenshots/duplicate-rows-example.jpg)
+![Duplicates](Screenshots/duplicate-row-example.jpg)
 
 ### Cleaned Data
 ![Cleaned](Screenshots/final-cleaned-dataset.jpg)
