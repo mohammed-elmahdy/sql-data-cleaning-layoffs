@@ -1,13 +1,13 @@
-# 🧹 SQL Data Cleaning Project – Layoffs Dataset
+# SQL Data Cleaning Project – Layoffs Dataset
 
-## 📌 Overview
+## Overview
 
 This project focuses on cleaning and preparing a raw layoffs dataset using MySQL.
 The goal is to transform messy data into a structured and analysis-ready format.
 
 ---
 
-## 📸 Data Cleaning Preview
+## Data Cleaning Preview
 
 ### Raw Data
 ![Raw Data](Screenshots/raw-dataset-preview.jpg)
@@ -20,14 +20,14 @@ The goal is to transform messy data into a structured and analysis-ready format.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 * MySQL
 * SQL (Window Functions, Joins, CTEs)
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains information about global layoffs, including:
 
@@ -41,7 +41,7 @@ The dataset contains information about global layoffs, including:
 
 ---
 
-## ⚙️ Data Cleaning Steps
+## Data Cleaning Steps
 
 The following steps were performed:
 
@@ -77,7 +77,7 @@ The following steps were performed:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 📦 sql-data-cleaning-layoffs
