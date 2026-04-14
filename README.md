@@ -88,6 +88,6 @@ The following steps were performed:
 
 ---
 
-## 📬 Author
+## Author
 
 **Mohammed Elmahdy**
